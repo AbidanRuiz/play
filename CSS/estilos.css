@@ -1,0 +1,70 @@
+*{
+
+
+    margin: 0;
+    padding: 0;
+}
+body{
+
+background-image: url('/Imagenes/LALA.jpg');
+
+}
+
+#contenido, #cuadro, #menu, #centro, #footer{
+  
+    width: 900px;
+}
+#cuadro{
+
+    width:200px;
+    height:200px;
+
+    background-color: honeydew;
+}
+
+#contenido{
+
+    height:200px 1000px;
+    margin: auto;
+
+
+    background-color: indigo;
+    width: 1000px;
+}
+
+#menu{
+width:1000px;
+height: 50px;
+background-color: darkorange;
+
+}
+#centro{
+ width:1000px; 
+height: 650px;
+
+background-color: darkorchid;
+
+}
+
+#footer{
+
+    height:50px;
+    width: 1000px;
+    background-color: darkred;
+}
+
+
+
+#izq{
+
+height:650px;
+width:700px;
+
+background-color: gold;
+float:left;
+
+
+
+}
+
+
